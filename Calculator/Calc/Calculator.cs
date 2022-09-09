@@ -41,10 +41,6 @@ namespace Firstproject.Calc
             {
                 RunCalculation();
             }
-            else if (restartCheck != "yes")
-            {
-                return 
-            }
             {
                 Environment.Exit(0);
             }
